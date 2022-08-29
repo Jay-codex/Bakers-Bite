@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Butterscotch Pastries",
+        "description": "Here's another classic flavour to leave you spellbound. This scrumptious butterscotch pastries with its luscious flavour is all set to entice you with its caramel shavings and delicious toppings. We bet you would swoon over the pleasing taste of your favourite flavour",
+        "price": "$17.9",
+        "imageUrl": "https://media.bakingo.com/sq-enchanting-butterscotch-pastries-past0213butt-A_0.jpg?tr=w-320,h-320,q-70"
+    },
+    {
+        "name": "Mango Pastries",
+        "description": "Award yourself with the delish flavours of mango pastries and lose yourself in their sumptuous appeal like never before. The mushy base enrobed with almond shavings and topped with mango glaze and chocolate crown are not only going to satiate your sweet tooth desires but also remind you of the summertime goodness.",
+        "price": "$11.9",
+        "imageUrl": "https://media.bakingo.com/squ-satiating-mango-pastries-past0210mang-A_0.jpg"
+    },
+    {
+        "name": "Fruit Pastries",
+        "description": "For the times when your celebration needs a refreshing kick-start, this fruit pastries is here to load your occasion with bliss. The freshly baked pastries topped with juicy fruits like pineapple, cherries, kiwi, orange and grapes would give a healthy twist to your celebrations.",
+        "price": "$16",
+        "imageUrl": "https://media.bakingo.com/sq-healthful-fruit-pastries-past0207frui-A_0.jpg"
+    },
+    {
+        "name": "Black Forest Pastry",
+        "description": "Just have a single bite of this Black Forest pastry and it will all make a proper sense to you. The kick of cherry and rich chocolate of this super light, airy pastry will definitely make you feel wow The perfect combination of cherry cream and rich chocolate can provide the ultimate fulfillment to your dessert craving.",
+        "price": "$16",
+        "imageUrl": "https://media.bakingo.com/sq-extravagant-blackforest-past0159blac-A_0.jpg"
+    },
+    {
+        "name": "Choco Chip Pastries",
+        "description": "It's time to fall in luxury..in love with this delish pastries loaded with choco chips and white chocolate crown to satiate your chocolate desires. The mushy base with a delicious chocolate topping is something you would have a hard time saying 'No' to.",
+        "price": "$11.9",
+        "imageUrl": "https://media.bakingo.com/sq-overwhelming-choco-chip-pastries-past0208choc-A_0.jpg"
+    },
+    {
+        "name": "Kit Kat Pastries",
+        "description": "Bring out the kid in you with Kit Kat pastries and feed your inner child with the right kind of sweetness it had been missing for so long. With richly whipped cream swirled over the cake coming along with Kit Kat bar on the top shall give a pleasurable break from your mundane routine.",
+        "price": "$19.4",
+        "imageUrl": "https://media.bakingo.com/sq-scrumptious-kit-kat-pastries-past0211choc-A_0.jpg"
+    }    
+]

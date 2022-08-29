@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Higher Fibre Loaf",
+        "description": "Our Higher Fibre Loaf packs a healthy punch! It tastes just as great as our regular White Loaf, but has four times the fibre! This loaf tends to get devoured pretty quick, so make sure you save yourself a slice! Toast it for the perfect BLT, or give it the grilled cheese treatment and dip into creamy tomato soup to spark some childhood memories.",
+        "price": "$4.9",
+        "imageUrl": "https://www.cobsbread.com/drive/uploads/2020/12/cobs-product-higher-fibre-loaf-FF-650x458.png"
+    },
+    {
+        "name": "Country Grain Loaf",
+        "description": "Your family will devour this loaf, and you can feel good about it because we packed it with eight grains and seeds, fibre, and no preservatives. The soft centre holds the nutty flavour of toasted grains and seeds, making it amazing for classic turkey sandwiches. You can also slather a nutrient-packed slice with natural peanut butter and homemade jam to bring life to your family’s morning routine.",
+        "price": "$4",
+        "imageUrl": "https://www.cobsbread.com/drive/uploads/2018/01/cobs-product-country-loaf-650x458.png"
+    },
+    {
+        "name": "Sourdough Vienna",
+        "description": "The thick, crunchy crust and dense centre of our traditional Sourdough White Vienna is packed with the distinct taste of an authentic artisanal bread. It’s a classic that still elevates expectations as a foundation or side. Made from a traditional recipe, we promise you won’t be disappointed.",
+        "price": "$9.9",
+        "imageUrl": "https://www.cobsbread.com/drive/uploads/2018/01/cobs-product-sourdough-vienna-650x458.png"
+    },
+    {
+        "name": "Herb & Garlic Gourmet Hot Dog Bun",
+        "description": "Filled with our favourite Mediterranean flavours including basil and oregano, our Herb & Garlic Gourmet Buns pair perfectly with your beef and lamb.",
+        "price": "$9.9",
+        "imageUrl": "https://www.cobsbread.com/drive/uploads/2020/05/cobs-product-gourmet-hot-dog-bun-herb-and-garlic-650x458.png"
+    },
+    {
+        "name": "Italian Herb Focaccia",
+        "description": "With a crispy crust, airy texture and a handful of herbs, we make our Italian Herb Focaccia with more olive oil than any of our other breads. Based on flatbread invented in the times of Ancient Rome, savour it dipped in a fine extra virgin oil and balsamic vinegar and served as an appetizer. Treat yourself with a Focaccia panini and pack it with prosciutto. Or give it a home next to pesto linguine.",
+        "price": "$9.9",
+        "imageUrl": "https://www.cobsbread.com/drive/uploads/2020/06/cobs-product-focaccia-italian-herb-650x458-1.png"
+    },
+    {
+        "name": "French Baguette",
+        "description": "With its fragrant crust and fluffy centre, it’s the perfect artisan bread for any meal. From romantic park picnics to impressive breakfasts and elegant canapés, this Parisian favourite is a versatile staple. A nutty flavour and delicate golden crumb make it an amazing accompaniment to a savoury broth or as a foundation for a fresh mozzarella, basil and tomato sandwich.",
+        "price": "$6",
+        "imageUrl": "https://www.cobsbread.com/drive/uploads/2019/11/cobs-product-french-baguette-3-650x458.png"
+    }
+]

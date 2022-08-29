@@ -1,0 +1,41 @@
+[
+    {
+        "name": "CUPCAKES",
+        "description": "BEST VANILLA CUPCAKES",
+        "price": "$9.9",
+        "imageUrl": "https://cdn.cupcakeproject.com/wp-content/uploads/2011/09/Best-Vanilla-Cupcakes-01-424x636.jpg"
+    },
+    {
+        "name": "CUPCAKES",
+        "description": "THE BEST CHOCOLATE CUPCAKES RECIPE",
+        "price": "$9.9",
+        "imageUrl": "https://cdn.cupcakeproject.com/wp-content/uploads/2013/06/Chocolate-Cupcakes-20-424x636.jpg"
+    },
+    {
+        "name": "CUPCAKES",
+        "description": "STRAWBERRY CUPCAKES",
+        "price": "$9.9",
+        "imageUrl": "https://cdn.cupcakeproject.com/wp-content/uploads/2019/01/Strawberry-Cupcakes-and-Frostings-48-424x636.jpg"
+
+    },
+    {
+        "name": "CHOCOLATE ANGEL FOOD CAKE",
+        "description": "This chocolate angel food cake is incredibly light and airy and deeply chocolatey. I top mine with chocolate whipped cream and fresh berries for a heavenly treat! …",
+        "price": "$30",
+        "imageUrl": "https://cdn.cupcakeproject.com/wp-content/uploads/2022/02/Chocolate-Angel-Food-Cake-16-424x636.jpg"
+
+    },
+    {
+        "name": "BAUMKUCHEN (GERMAN TREE CAKE)",
+        "description": "Baumkuchen is a stunning almond-flavored cake with many paper-thin layers (mine has 11). It is traditionally made on a spit, but my version for home bakers can be done in the oven. It's not …",
+        "price": "$40",
+        "imageUrl": "https://cdn.cupcakeproject.com/wp-content/uploads/2022/01/Baumkuchen-16-424x636.jpg"
+
+    },
+    {
+        "name": "ZIMTSTERNE (GERMAN CINNAMON STAR COOKIES)",
+        "description": "Zimtsterne, cinnamon stars, are a classic German Christmas cookie. They are similar to gingerbread cookies, but made with ground almonds and flavored heavily with cinnamon. They are chewy on the inside and very crispy …",
+        "price": "$9.9",
+        "imageUrl": "https://cdn.cupcakeproject.com/wp-content/uploads/2021/12/Zimtsterne-14-424x636.jpg"
+    }
+]
